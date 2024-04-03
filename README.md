@@ -1,5 +1,5 @@
 # Hi there, I'm Aniket Bangar 👋  
- 
+ ![Python Coder](1_ti9Tt7Mf8slWeg3cjoBLCA.png)
 
 🤖 Machine Learning Engineer | LLM Expert & AI Enthusiast 💡  
 
