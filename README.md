@@ -1,7 +1,7 @@
 # Hi there, I'm Aniket Bangar 👋  
  ![Python Coder](1_ti9Tt7Mf8slWeg3cjoBLCA.png)
 
-🤖 Machine Learning Engineer | LLM Expert & AI Enthusiast 💡  
+🤖 Machine Learning Engineer | Generative AI & LLM Enthusiast 💡  
 
 Welcome to my GitHub realm, where algorithms dance with data and innovation knows no bounds! As an expert in Large Language Models (LLMs) and a trailblazer in the latest AI projects, I specialize in crafting intelligent systems that redefine the boundaries of possibility. With a focus on harnessing the power of cutting-edge technologies, including Langchain, I orchestrate algorithms to unlock insights and drive innovation in various domains of artificial intelligence.
 
